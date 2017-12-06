@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" extends="task" label="Room Booking" max_length="40" name="x_24700_room_book_room_booking" type="collection"/>
+</database>
